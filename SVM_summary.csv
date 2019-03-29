@@ -1,0 +1,6 @@
+,Model Name,Testing Accuracy,Training Accuracy
+0,SVM Classifier (linear),64.78%,94.16%
+4,SVM Classifier (poly),21.15%,21.11%
+5,SVM Classifier (rbf),21.15%,21.11%
+6,SVM Classifier (sigmoid),21.15%,21.11%
+7,"SVM Classifier (linear, words only)",65.01%,94.28%
