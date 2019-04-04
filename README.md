@@ -167,7 +167,7 @@ weighted avg       0.46      0.41      0.33      2889
 ![Image](cf_rf_norm_opt.png)
 
 
-![Image](roc_rf_opt_norm copy.png)
+![Image](roc_rf_opt_norm.png)
 
 We also ran the above models using a mixed matrix of vectorized text and the metadata we engineering, but those models did not perform as well so we decided not to use the mixed-matrix.
 
