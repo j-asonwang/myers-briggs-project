@@ -2,11 +2,10 @@
 ***
 ## Motivation
 
-The Myers–Briggs Type Indicator (MBTI) is one of the most popular questionnaires used to categorize individuals' personality types measuring where an individual lands on the spectrum of energy, decisions, information and lifestyle preferences.  Many universities and businesses have used the MBTI test to help individuals gain a deeper understanding of their strengths and weaknesses to figure out which career paths would be best suited for their personality type and/or learn to understand perspective of others to improve collaboration. This is of course not a hard science, but rather interesting lens for self-reflection.   
+The Myers–Briggs Type Indicator (MBTI) is one of the most popular questionnaires used to assess an individual's personality types. It is based on 16 personality types based on energy sources, decision-making preference, information processing and lifestyle preferences.  Many universities and businesses use the MBTI test to help individuals get a better understanding of their strengths and weaknesses to figure out which career paths would be best suited for their personality type and to learn to understand other's working styles to improve collaboration. This is of course not a hard science but an interesting path for self-reflection and discussion.   
 
 ![Image](mbti-5-facets.jpg)
 
-[INSERT BUSINESS USE CASE / GOAL OF THE PROJECT]
 
 
 ***
